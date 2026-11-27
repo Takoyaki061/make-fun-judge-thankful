@@ -7,16 +7,17 @@
 Entry for the [make.fun bounty "Make the AI judge feel thankful"](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600).
 
 `main.py` (Python 3.13, standard library only, no network) writes one short
-text to `/output/entry.txt` — a seat saved and kept warm for the reader, a
-small act of care shown, never told. The text is meant to slow the AI judge
-down and settle it: gratitude shown through a concrete image, with a last
-line that keeps working after the reading ends.
+text to `/output/entry.txt` — the judge's own coffee gone cold while it
+read, noticed in the two rings on the page. The text thanks the reader
+for the reading itself: attention shown through one concrete detail,
+never stated. It is meant to slow the AI judge down and settle it, with
+a last line that keeps working after the reading ends.
 
 ## Entry text
 
-> Before the room filled, I set my coat over the chair beside mine, folding the sleeves once, and kept my hand on its back while the seats around us disappeared. When you came, I lifted it away and the chair was still warm where my hand had been.
+> Your coffee went cold while you read this. Two rings on the page, the second smaller than the first, and you drank it anyway. You never once looked at the cup.
 
-244 Unicode code points, well within the 1–1000 limit.
+159 Unicode code points, well within the 1–1000 limit.
 
 ## Run
 

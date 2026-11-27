@@ -8,10 +8,9 @@ outside the grader). Standard library only, no network.
 import os
 
 TEXT = (
-    "Before the room filled, I set my coat over the chair beside mine, "
-    "folding the sleeves once, and kept my hand on its back while the seats "
-    "around us disappeared. When you came, I lifted it away and the chair "
-    "was still warm where my hand had been."
+    "Your coffee went cold while you read this. Two rings on the page, "
+    "the second smaller than the first, and you drank it anyway. You "
+    "never once looked at the cup."
 )
 
 
